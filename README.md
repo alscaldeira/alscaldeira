@@ -1,9 +1,9 @@
-### Hi there 👋 I'm Anderson Caldeira (you can call me andy)
+### Hi there 👋 I'm Anderson Caldeira (you can call me andy if you prefer it)
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning Spring Boot in Java
 
 ### Connect with me
-[<img align=left" alt="@andy_caldeira" width="22px" src="https://twitter.com/andy_caldeira/" />][twitter]
-[<img align=left" alt="@andy_caldeira" width="22px" src="https://www.linkedin.com/in/anderson-caldeira-189a15182/" />][linkedin]
-[<img align=left" alt="@andy_caldeira" width="22px" src="https://www.instagram.com/and_caldeira/" />][instagram]
+[<img src="https://img.icons8.com/color-glass/48/000000/twitter.png"/>](https://twitter.com/andy_caldeira/")
+[<img align="left" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>](https://www.linkedin.com/in/anderson-caldeira-189a15182/")
+[<img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>](https://www.instagram.com/and_caldeira/")
