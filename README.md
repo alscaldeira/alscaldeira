@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Anderson Caldeira (you can call me andy if you prefer it)
+### Hi there 👋 I'm Anderson Caldeira (you can call me andy if you prefer)
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning Spring Boot in Java
