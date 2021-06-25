@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning Spring Boot in Java
-- ✨Fun fact: I'm listening to music in any time of my day and I love playing guitar ;3
+- ✨Fun fact: I'm listening to music in any time of my day and I love to play guitar ;3
 
 ### Connect with me
 [<img src="https://img.icons8.com/color-glass/48/000000/twitter.png"/>](https://twitter.com/andy_caldeira/")
