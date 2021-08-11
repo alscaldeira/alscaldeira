@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning Spring Boot in Java
-- ✨Fun fact: I'm listening to music in any time of my day and I love to play guitar ;3
+- ✨Fun fact: I'm listening to music in any time of my day
 
 ## Connect with me <br/>
 <p align="center">
