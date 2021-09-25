@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Anderson Caldeira (you can call me Andy if you prefer)
 
-- 🔭 I’m currently working on personal projects
+- 🔭 I’m currently working on Easy Call projects
 - 🌱 I’m currently learning Spring Boot in Java
 - ✨Fun fact: I'm listening to music in any time of my day
 
